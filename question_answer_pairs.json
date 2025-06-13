@@ -1,0 +1,958 @@
+[
+  {
+    "question": "Welche Behörde ist für die Erteilung einer Apostille zuständig, wenn eine Urkunde von Behörden des Freistaates Sachsen aus dem Bereich der Justiz ausgestellt wurde?",
+    "answer": "Für Urkunden des Sächsischen Staatsministeriums der Justiz ist das Sächsisches Staatsministerium der Justiz zuständig. Für Urkunden der Landgerichte und ihrer Gerichte, sowie alle anderen Gerichte und Notare im jeweiligen Landgerichtsbezirk sind die Präsidenten der Landgerichte zuständig.",
+    "source_document": "PV_Apostille_Haager_Apostille.md"
+  },
+  {
+    "question": "Unter welchen Rufnummern stehen Beraterinnen und Berater in Sachsen rund um die Uhr für Menschen in akuten Krisensituationen im Zusammenhang mit Trennung zur Verfügung?",
+    "answer": "Sie stehen unter den einheitlichen Rufnummern 0800 111 0 111 und 0800 111 0 222.",
+    "source_document": "Linksammlung_Trennung_mit_Kind.md"
+  },
+  {
+    "question": "Welche Gewerbe müssen in Deutschland eine besondere Genehmigung einholen, wenn sie nicht unter die erlaubnisfreien Gewerbe fallen?",
+    "answer": "Ausnahme von den erlaubnisfreien Gewerben bilden einige in der Gewerbeordnung (GewO) genannten Gewerbe, für die eine besondere Genehmigung erforderlich ist.",
+    "source_document": "Erlaubnisfreie_Gewerbe.md"
+  },
+  {
+    "question": "Welche Personenkreise sind an die Betreuungsverfügung gebunden, vorausgesetzt sie widerspricht nicht dem Wohl der Person?",
+    "answer": "Sowohl der von Ihnen benannte Betreuer als auch das Betreuungsgericht sind an die Betreuungsverfügung gebunden, falls diese Ihrem Wohl nicht zuwiderläuft.",
+    "source_document": "Betreuungsverfügung.md"
+  },
+  {
+    "question": "Wann sollten Sie sich bei der Bundesagentur für Arbeit arbeitsuchend melden, wenn es nach der Ausbildung nicht direkt mit einem Arbeitsplatz klappt?",
+    "answer": "Sobald absehbar ist, dass Sie nach der Ausbildung weder in Ihrem Ausbildungsbetrieb noch in einem anderen Unternehmen eine Arbeitsstelle in Aussicht haben, sollten Sie sich bei der Bundesagentur für Arbeit arbeitsuchend melden.",
+    "source_document": "Nach_der_Lehre_ohne_Job.md"
+  },
+  {
+    "question": "Welche zwei Arten von Sondergebieten innerhalb der EU gibt es, für die die erleichterten Bestimmungen im Reiseverkehr zwischen EU-Staaten nicht gelten?",
+    "answer": "Es gibt Gebiete, die zum Staatsgebiet einzelner EU-Mitgliedstaaten, aber nicht zum Zollgebiet der EU gehören (zum Beispiel Grönland, Gibraltar, Helgoland) und Gebiete, die zum Zollgebiet der EU gehören, in denen jedoch andere Bestimmungen bezüglich der Verbrauch- und Mehrwertsteuern gelten (zum Beispiel die britischen Kanalinseln und die Kanarischen Inseln).",
+    "source_document": "Einreise_aus_EU-Staaten.md"
+  },
+  {
+    "question": "From what age are women recommended to have yearly breast examinations, and what does this examination include?",
+    "answer": "Women are recommended to have yearly breast examinations from the age of 30. This includes a specific history (e.g., questions about changes/symptoms), inspection and feeling of breasts and regional lymph nodes, including instructions about self-examination, and advice about result.",
+    "source_document": "List_of_screening_examiniations_and_vaccinations.md"
+  },
+  {
+    "question": "Seit wann ist es in Deutschland möglich, zwei Fahrzeuge abwechselnd mit ein und demselben Nummernschild zu fahren?",
+    "answer": "Seit dem 01.07.2012 ist in Deutschland möglich, zwei Fahrzeuge abwechselnd mit ein und demselben Nummernschild zu fahren.",
+    "source_document": "Linksammlung_Fahrzeuge.md"
+  },
+  {
+    "question": "Unter welchen Umständen kann ein gemeinschaftliches Testament von Eheleuten oder Lebenspartnern nur als öffentliches Testament errichtet werden?",
+    "answer": "Das eigenhändige gemeinschaftliche Testament kann von den Eheleuten oder Lebenspartnern nur errichtet werden, wenn jeweils beide Personen volljährig sind und lesen können. Ist dies nicht der Fall, können sie nur das öffentliche Testament wählen.",
+    "source_document": "Gemeinschaftliches_Testament.md"
+  },
+
+  {
+    "question": "Under which section of the Asylum Seekers Benefits Act are individuals entitled to statutory health insurance benefits, receive a health insurance card, and are subject to regulations governing additional payments?",
+    "answer": "Individuals are entitled to statutory health insurance benefits under § 2 of the Asylum Seekers Benefits Act.",
+    "source_document": "Particular_regulations_according_to_Book_XII_Social_Code_and_Asylum_Seekers_Benefits_Act.md"
+  },
+  {
+    "question": "Unter welchen Umständen kann ein Unionsbürger, der nicht im Wählerverzeichnis eingetragen ist, dennoch einen Wahlschein erhalten?",
+    "answer": "Ein Unionsbürger kann auch ohne Eintragung im Wählerverzeichnis einen Wahlschein erhalten, wenn er unter besondere Umstände fällt - zum Beispiel, wenn er unverschuldet die Antragsfrist für die Eintragung in das Wählerverzeichnis oder für den Einspruch gegen das Wählerverzeichnis versäumt hat.",
+    "source_document": "Wer_darf_wählen_Europawahl.md"
+  },
+  {
+    "question": "Welche Institutionen sind für die öffentliche Aufsicht über Kreditinstitute und Finanzdienstleistungsinstitute in Deutschland zuständig?",
+    "answer": "In Deutschland übt die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) in Zusammenarbeit mit der Bundesbank die Aufsicht über Kreditinstitute und Finanzdienstleistungsinstitute aus.",
+    "source_document": "Banken_und_Zahlungsverkehr.md"
+  },
+  {
+    "question": "Wann kann der Arrest angewendet werden, laut des Textes?",
+    "answer": "Der Arrest kann beispielsweise dann angewendet werden, wenn aufgrund der leichtfertigen Geschäftsführung von Schuldnern oder aufgrund von Verschwendungssucht absehbar ist, dass eine Zwangsvollstreckung in das Vermögen der gegnerischen Partei später nicht mehr möglich ist.",
+    "source_document": "Vorläufiger_Rechtsschutz_Privatrecht.md"
+  },
+  {
+    "question": "Welche Schäden deckt die Bauleistungsversicherung ab?",
+    "answer": "Durch eine Bauleistungsversicherung werden Schäden durch Sturm, starke Witterungseinflüsse oder Elementarereignisse, wie zum Beispiel einem Erdrutsch, durch Vandalismus oder auch durch ungeschickte Handwerker abgesichert.",
+    "source_document": "Versicherungen.md"
+  },
+  {
+    "question": "Welche Standorte bietet der Freistaat Sachsen für eine besondere Bildungsberatung an, um schulpflichtigen Kindern und Jugendlichen einen guten Start ins Schulsystem zu ermöglichen?",
+    "answer": "Die besonderen Bildungsberatungsstandorte befinden sich in Bautzen, Chemnitz, Dresden, Leipzig und Zwickau.",
+    "source_document": "Flüchtlingskinder.md"
+  },
+  {
+    "question": "Welche Leistungen beinhaltet eine Soforthilfeversicherung im Ausland?",
+    "answer": "Eine Soforthilfeversicherung übernimmt unter anderem die aktive Unterstützung vor Ort bei Krankheiten, Unfällen oder Tod (zum Beispiel durch Vermittlung von Rechtsbeiständen), die Benachrichtigung der Angehörigen, die Erstattung der Reisekosten für einen Angehörigen bei einem längeren stationären Aufenthalt sowie finanzielle Vorschüsse.",
+    "source_document": "Sonstige_Reiseversicherungen.md"
+  },
+  {
+    "question": "Welche Pflicht hat der Vereinsvorstand zivilrechtlich?",
+    "answer": "Zivilrechtlich ist der Vereinsvorstand verpflichtet, Rechenschaft gegenüber der Mitgliederversammlung abzulegen.",
+    "source_document": "Aufzeichnungen_und_Rechenschaften.md"
+  },
+  {
+    "question": "Welche zwei Möglichkeiten des vorläufigen Rechtsschutzes gibt es im öffentlichen Recht?",
+    "answer": "Im öffentlichen Recht gibt es zwei Möglichkeiten des vorläufigen Rechtsschutzes: Die Anordnung oder Wiederherstellung der aufschiebenden Wirkung und die einstweilige Anordnung.",
+    "source_document": "Vorläufiger_Rechtsschutz_öffentliches_Recht.md"
+  },
+  {
+    "question": "Was ist der Unterschied zwischen zeitlich befristeter und unbefristeter Vollzeitpflege?",
+    "answer": "Bei der zeitlich befristeten Vollzeitpflege ist die Aufnahme des Pflegekindes auf einen begrenzten Zeitraum beschränkt, nach dessen Ablauf das Kind in seine Herkunftsfamilie zurückkehrt. Bei der unbefristeten Vollzeitpflege handelt es sich um eine dauerhafte Unterbringung, bei der die Pflegeeltern die Hauptbezugspersonen werden.",
+    "source_document": "Pflegeformen.md"
+  },
+  {
+    "question": "Welche drei Dinge werden benötigt, um Strom aus Wasserkraft zu gewinnen?",
+    "answer": "Drei Dinge werden benötigt: fließendes Wasser in beträchtlicher Menge, eine Turbine (Kaplan-, Francis- oder Peltonturbine), welche die Bewegungsenergie des Wassers in technisch verwertbare Rotationsenergie verwandelt, und einen Generator, der diese Rotationsenergie in Elektroenergie verwandelt.",
+    "source_document": "Der_neue_Strom.md"
+  },
+  {
+    "question": "Welche Körperflüssigkeiten können HIV übertragen?",
+    "answer": "HIV kann durch Blut, Seminalfluid, Vaginalsekrete und Muttermilch übertragen werden.",
+    "source_document": "HIV_and_AIDS.md"
+  },
+  {
+    "question": "Welche drei Maßnahmen umfassen die Erhaltung und pflegliche Behandlung von Kulturdenkmalen laut Text?",
+    "answer": "Die Erhaltung und pflegliche Behandlung umfassen insbesondere die Instandhaltung, die Instandsetzung sowie die sachgemäße Behandlung.",
+    "source_document": "Denkmalschutz.md"
+  },
+  {
+    "question": "Welche Risiken birgt der gleichzeitige Konsum von Alkohol und Energydrinks laut dem Text?",
+    "answer": "Der gleichzeitige Konsum von Alkohol und Energiedrinks birgt Risiken wie Herz-Rhythmus-Störungen oder Bluthochdruck. Außerdem überdecken Alkohol-Energydrinks die Wirkung von Alkohol und vermitteln das Gefühl fit und nüchtern zu sein.",
+    "source_document": "Alkohol.md"
+  },
+  {
+    "question": "Welche Telefonnummer kann man anrufen, um einen Termin bei der Verbraucherzentrale Sachsen zu vereinbaren?",
+    "answer": "+49 180 5797 777",
+    "source_document": "Verbraucherschutz_Beratung_und_Information.md"
+  },
+  {
+    "question": "Welche Telefonnummer sollte sofort gewählt werden, wenn Kampfmittel auf einem Grundstück gefunden wurden?",
+    "answer": "Die Polizei sollte sofort über die Telefonnummer 110 informiert werden.",
+    "source_document": "Kampfmittelbeseitigung.md"
+  },
+  {
+    "question": "Welche besonderen Regelungen gelten, wenn Eheleute oder eingetragene Lebenspartner gemeinschaftlich ein eigenhändiges Testament errichten?",
+    "answer": "Für die Errichtung eines eigenhändigen Testaments durch Eheleute oder eingetragene Lebenspartner gelten besondere Regelungen zum gemeinschaftlichen Testament.",
+    "source_document": "Eigenhändiges_Testament.md"
+  },
+  {
+    "question": "Seit wann dürfen EU-Bürger aktiv und passiv an Kommunalwahlen in Deutschland teilnehmen?",
+    "answer": "EU-Bürger dürfen seit 1994 sowohl aktiv als auch passiv an Kommunalwahlen in ihrem Wohnort in Deutschland teilnehmen.",
+    "source_document": "Wahlrecht.md"
+  },
+  {
+    "question": "Unter welchen Umständen kann ein Erblasser einen Erbvertrag wegen Verfehlungen des Bedachten oder Aufhebung einer Gegenverpflichtung zurücktreten?",
+    "answer": "Ein Erblasser kann von einer vertragsmäßigen Verfügung zurücktreten, wenn sich der durch den Erbvertrag Bedachte einer schweren Verfehlung schuldig gemacht hat oder wenn der Bedachte sich verpflichtet hat, dem Erblasser für dessen Lebenszeit wiederkehrende Leistungen zu gewähren, und diese Verpflichtung vor dem Tode des Erblassers aufgehoben wird.",
+    "source_document": "Widerruf_eines_Erbvertrags.md"
+  },
+  {
+    "question": "Welche Broschüre zum Thema Existenzgründung kann man kostenlos bei den sächsischen Industrie- und Handelskammern (IHK) und Handwerkskammern (HWK) bestellen?",
+    "answer": "Die Broschüre \"Existenzgründung in Sachsen\".",
+    "source_document": "Planung.md"
+  },
+  {
+    "question": "Welchen Mindestabstand zu einer Grundstücksgrenze müssen Bäume, Sträucher und Hecken bis zu einer Höhe von zwei Metern haben, wenn sich das Grundstück innerhalb eines im Zusammenhang bebauten Ortsteils befindet?",
+    "answer": "Innerhalb von im Zusammenhang bebauten Ortsteilen beträgt der Grenzabstand für Bäume, Sträucher und Hecken bis zu einer Höhe von zwei Metern mindestens einen halben Meter.",
+    "source_document": "Keinen_Ärger_mit_den_Nachbarn.md"
+  },
+  {
+    "question": "Welche Faktoren beeinflussen die Wahl der Verkehrsmittel für eine Urlaubsreise?",
+    "answer": "Die Wahl der Verkehrsmittel hängt von verschiedenen Faktoren wie Kosten, Entfernung des Urlaubsziels vom Heimatort und auch der Dauer der Reise ab.",
+    "source_document": "Verkehrsmittel.md"
+  },
+  {
+    "question": "Welche zwei Möglichkeiten gibt es, die Kosten für eine Bestattung vorzufinanzieren?",
+    "answer": "Es gibt die Möglichkeit, eine Bestattungsvorsorge über einen Bestattungsvorsorgevertrag mit einem Beerdigungsunternehmen zu treffen oder eine Sterbegeldversicherung abzuschließen.",
+    "source_document": "Bestattungsvorsorge.md"
+  },
+  {
+    "question": "Welche Unterlagen sind im Normalfall vor einem Krankenhausaufenthalt einzureichen, außer in Notfällen?",
+    "answer": "Im Normalfall ist der Krankenhausüberweisungsträger vom Haus- oder Facharzt vorzulegen. Dieser Überweisungsträger ist bei den Sozialdiensten zu stempeln (in der Regel nicht als Genehmigung, sondern als Nachweis der Benachrichtigung für die Zahlungsfreistellung).",
+    "source_document": "Hospital_stays_and_emergencies.md"
+  },
+  {
+    "question": "Unter welchen Umständen ist es ratsam, ein Testament zu verfassen, auch wenn man ein gewerbliches Unternehmen besitzt oder größere Werte vererben möchte?",
+    "answer": "Es ist ratsam, für die Nachfolge eines gewerblichen Unternehmens sowie für die Vererbung größerer Werte ein Testament abzufaffen.",
+    "source_document": "Testament.md"
+  },
+  {
+    "question": "Was beinhaltet eine Sprachreise typischerweise neben Beförderung und Unterkunft?",
+    "answer": "Eine Sprachreise beinhaltet typischerweise neben Beförderung und Unterkunft auch Sprachunterricht vor Ort.",
+    "source_document": "Ferien_mal_anders_Jugend-_und_Sprachreisen.md"
+  },
+  {
+    "question": "Was ist der Hauptunterschied bei einer Ausfallbürgschaft für Unternehmen?",
+    "answer": "Bei dieser speziellen Form der Bürgschaft muss der Bürge nur für den endgültigen Ausfall einstehen, das heißt für das, was der Gläubiger trotz Zwangsvollstreckung gegen den Schuldner und Verwertung der Sicherheiten nicht erlangen kann.",
+    "source_document": "Bürgschaften.md"
+  },
+  {
+    "question": "Wie werden die 96 Sitze des Europäischen Parlaments aus der Bundesrepublik Deutschland verteilt?",
+    "answer": "Die Sitze werden auf die Parteien und sonstigen politischen Vereinigungen im Verhältnis der für sie abgegebenen Stimmen verteilt.",
+    "source_document": "Wahlergebnisse_und_Sitzverteilung_Europawahl.md"
+  },
+  {
+    "question": "Unter welchen Voraussetzungen haben Sie einen Anspruch auf Zugewinnausgleich?",
+    "answer": "Einen Anspruch auf diese Art von Vermögensausgleich haben Sie, wenn Sie im Güterstand der so genannten Zugewinngemeinschaft leben und Ihr Ehepartner während der Ehe mehr Vermögen erwirtschaftete als Sie.",
+    "source_document": "Vermögen_Zugewinnausgleich.md"
+  },
+  {
+    "question": "Welche Schäden am Gepäck deckt eine Reisegepäckversicherung ab?",
+    "answer": "Eine Reisegepäckversicherung schützt vor finanziellen Schäden durch Verlust, Diebstahl, Zerstörung und Beschädigung Ihres Gepäcks.",
+    "source_document": "Sachversicherungen.md"
+  },
+  {
+    "question": "Was passiert mit der geleasten Sache, nachdem der Leasingvertrag abgelaufen ist?",
+    "answer": "Nach Ablauf des Leasingvertrags geht die Sache in der Regel wieder an den Leasinggeber zurück, je nach Vertrag besteht aber auch die Möglichkeit, den Gegenstand zu kaufen.",
+    "source_document": "Leasing.md"
+  },
+  {
+    "question": "Welche Daten werden im Rahmen der vierteljährlichen Verdiensterhebung von Betrieben mit zehn und mehr Mitarbeitern erhoben?",
+    "answer": "In der vierteljährlichen Verdiensterhebung werden Betriebe mit zehn und mehr Mitarbeitern nach Anzahl der vollzeit-, teilzeit- und geringfügig beschäftigten Mitarbeiter, bezahlten Arbeitsstunden (ausgenommen geringfügig Beschäftigte) und Bruttoverdienstsummen befragt.",
+    "source_document": "Statistik_und_Berichtspflichten.md"
+  },
+  {
+    "question": "Welche Mindestabstände sind bei Neuanpflanzungen von Bäumen, Sträuchern oder Hecken zu einer Grundstücksgrenze innerhalb eines im Zusammenhang bebauten Ortsteils einzuhalten, je nach Pflanzenhöhe?",
+    "answer": "Innerhalb von im Zusammenhang bebauten Ortsteilen beträgt der Grenzabstand mindestens 0,5 m bei Pflanzen bis 2 m Höhe und mindestens 2 m bei Pflanzen über 2 m Höhe. Der Abstand ist die kürzeste waagerechte Entfernung zwischen der Grenze und der Mitte des Baumstammes, des Strauches oder der Hecke an der Stelle, an der die Pflanze aus dem Boden austritt.",
+    "source_document": "Einfriedung_Leitungen_und_Grenzfragen.md"
+  },
+  {
+    "question": "Welche Unterlagen benötigt das Gericht für den Verfahrensantrag bei der Eröffnung des Insolvenzverfahrens?",
+    "answer": "Das Gericht benötigt insbesondere die Bescheinigung des erfolglosen außergerichtlichen Einigungsversuches, einen Antrag auf Erteilung der Restschuldbefreiung (gegebenenfalls mit Antrag auf Verfahrenskostenstundung), ein Verzeichnis über Vermögen und Einkommen, ein Verzeichnis der Gläubiger und deren Forderungen, einen Schuldenbereinigungsplan sowie eine Erklärung, dass die Verzeichnisse richtig und vollständig sind.",
+    "source_document": "Stufe_2_Gerichtliche_Schuldenbereinigung.md"
+  },
+  {
+    "question": "Unter welchen Umständen gilt eine Krankheit als schwerwiegende chronische Erkrankung im Sinne der genannten Richtlinien?",
+    "answer": "Eine Krankheit gilt als schwerwiegende chronische Erkrankung, wenn sie wenigstens ein Jahr lang mindestens einmal pro Quartal ärztlich behandelt wurde (Dauerbehandlung) und zusätzlich mindestens eines der folgenden Kriterien erfüllt ist: Es liegt eine Pflegebedürftigkeit des Pflegegrades 3 oder 4 vor; es liegt ein Grad der Behinderung nach dem Schwerbehindertenrecht von mindestens 60 vor oder eine Minderung der Erwerbstätigkeit nach dem Unfallversicherungsrecht von mindestens 60 Prozent; oder es ist eine kontinuierliche medizinische Versorgung erforderlich, ohne die nach ärztlicher Einschätzung eine lebensbedrohliche Verschlimmerung der Erkrankung, eine Verminderung der Lebenserwartung oder eine dauerhafte Beeinträchtigung der Lebensqualität zu erwarten ist.",
+    "source_document": "Zuzahlungen_in_der_Krankenversicherung.md"
+  },
+  {
+    "question": "Welche Abgabenarten setzen sich der Gesamtbetrag der Einfuhrabgaben zusammen?",
+    "answer": "Der Gesamtbetrag dieser Einfuhrabgaben setzt sich aus folgenden Abgabenarten zusammen: Zoll (dabei gelten unterschiedliche Zollsätze für unterschiedliche Warengruppen), Einfuhrumsatzsteuer (in der Regel 19 Prozent des Einfuhrumsatzsteuerwerts der Waren; ermäßigter Steuersatz von sieben Prozent für bestimmte Waren) und für Waren wie Tabakwaren oder alkoholische Getränke: Verbrauchsteuern (zum Beispiel Energiesteuer, Tabaksteuer oder Branntweinsteuer).",
+    "source_document": "Zollvorschriften_bei_der_Rückkehr.md"
+  },
+  {
+    "question": "Welche zwei neuen Ausweisdaten wurden im Vergleich zum alten Personalausweis hinzugefügt?",
+    "answer": "Zwei neue Ausweisdaten wurden hinzugekommen: die Zugangsnummer vorn und der Ordens- oder Künstlername auf der Rückseite.",
+    "source_document": "Personalausweis.md"
+  },
+  {
+    "question": "Welche Arten von elektronischen Medien können über die Sperr-Notrufnummer 116 116 gesperrt werden?",
+    "answer": "Beispiele für sperrbare elektronische Medien sind: Kredit-, Bankkunden- und EC-Karten, Mobilfunkkarten, Kundenkarten mit Zahlungsfunktion, Online Banking- und E-Mail-Accounts, die Elektronische Identitätsfunktion des neuen Personalausweises sowie Elektronische Signaturen.",
+    "source_document": "Sperr-Notruf_116_116.md"
+  },
+  {
+    "question": "Welche Organisation betreibt das größte Ahnenforschungsarchiv der Welt und wo befindet sich dieses Archiv?",
+    "answer": "Die Mitglieder der Kirche Jesu Christi der Heiligen der Letzten Tage (Mormonen) betreiben das größte Ahnenforschungsarchiv der Welt, welches in Salt Lake City im Bundesstaat Utah der USA liegt.",
+    "source_document": "Digitale_Informationen.md"
+  },
+  {
+    "question": "Welche Schwerpunkte werden bei der kostenlosen Jugendgesundheitsuntersuchung J1 im Alter von 12 bis 14 Jahren gelegt?",
+    "answer": "Bei der J1-Untersuchung konzentriert sich der Kinder- bzw. Hausarzt auf folgende Schwerpunkte: körperliche Entwicklung (Körpergröße, Gewicht, Blutdruck, Urincheck), Überprüfung von Organen und des Skelettsystems, Pubertät, Verhütung, seelische und schulische Entwicklung, Verhalten hinsichtlich Rauchen, Alkohol, Medien, ggf. Empfehlungen zur gesunden Lebensführung sowie Überprüfung und gegebenenfalls Aktualisierung des Impfschutzes.",
+    "source_document": "Gesundheit_und_Fitness_Fit_wie_ein_Turnschuh.md"
+  },
+  {
+    "question": "Was passiert, wenn sich im ELStAM-Verfahren keine persönlichen Lohnsteuerabzugsmerkmale des Arbeitnehmers ermitteln lassen?",
+    "answer": "Wenn sich im ELStAM-Verfahren keine persönlichen Lohnsteuerabzugsmerkmale des Arbeitnehmers ermitteln lassen, müssen Sie die Steuerabzugsbeträge in der Regel nach Steuerklasse VI berechnen.",
+    "source_document": "Lohnsteuer.md"
+  },
+  {
+    "question": "Welche Form der Unterschrift ist für eine Patientenverfügung gesetzlich vorgeschrieben?",
+    "answer": "Die Verfügung muss schriftlich erfolgen und durch eine eigenhändige Unterschrift oder durch ein von einem Notar beglaubigtes Handzeichen unterzeichnet sein.",
+    "source_document": "Patientenverfügung.md"
+  },
+  {
+    "question": "Welche Personen benötigen eine Belehrung im Lebensmittelbereich gemäß §43 Abs.1 Nr.1 Infektionsschutzgesetz?",
+    "answer": "Personen, die gewerbsmäßig Lebensmittel herstellen, behandeln oder in Verkehr bringen und dabei mit ihnen direkt (mit der Hand) oder indirekt (über Bedarfsgegenstände) in Berührung kommen, sowie Personen, die in Küchen von Gaststätten, Restaurants, Kantinen, Cafés oder sonstigen Einrichtungen mit oder zur Gemeinschaftsverpflegung tätig sind.",
+    "source_document": "Der_öffentliche_Gesundheitsdienst_in_Sachsen.md"
+  },
+  {
+    "question": "Welche Telefonnummer sollte man anrufen, um eine individuelle Beratung durch das Bundesministerium für Familie, Senioren, Frauen und Jugend zu erhalten?",
+    "answer": "Eine individuelle Beratung bietet das Bundesministerium für Familie, Senioren, Frauen und Jugend mit dem Servicetelefon \"Pflegewegweiser\" unter der Telefonnummer 030 201 791 31 (montags bis donnerstags 09:00 bis 18:00 Uhr) an.",
+    "source_document": "Lassen_Sie_sich_beraten.md"
+  },
+  {
+    "question": "Welche Rechte haben leibliche Eltern bezüglich des Umgangs mit ihrem Kind, auch nachdem ihnen das Sorgerecht entzogen wurde?",
+    "answer": "Leiblichen Eltern steht, unabhängig von der elterlichen Sorge, das Recht zum Umgang mit dem Kind zu. Sie haben also auch nach dem Entzug des Sorgerechts weiterhin das Recht, ihr Kind in regelmäßigen Abständen zu sehen.",
+    "source_document": "Umgangsrecht_des_Kindes_mit_den_Eltern.md"
+  },
+  {
+    "question": "What percentage of income is typically paid by workers and pensioners towards their statutory health insurance contribution since 2011?",
+    "answer": "Since 2011, workers and pensioners pay 8.2% of their income on which they are liable to pay contributions or their pension.",
+    "source_document": "Health_insurance.md"
+  },
+  {
+    "question": "Warum sollte man die Namensänderung der Telefongesellschaft mitteilen?",
+    "answer": "Dies ist für die korrekte Rechnungsstellung und Ihren Eintrag im Telefonbuch wichtig.",
+    "source_document": "Namensänderung_bei_der_Telefongesellschaft.md"
+  },
+  {
+    "question": "Welche Unterlagen benötigt ein Unionsbürger grundsätzlich für die Einreise in die Bundesrepublik Deutschland?",
+    "answer": "Für die Einreise in die Bundesrepublik Deutschland benötigen Sie als Unionsbürger kein Visum, ein Reisepass ist ebenfalls nicht erforderlich. Es genügt ein für den Zeitraum des Aufenthaltes gültiger Personalausweis.",
+    "source_document": "Aufenthaltsrecht_für_Bürger_der_Europäischen_Union.md"
+  },
+  {
+    "question": "Unter welchen Voraussetzungen ist eine Erhöhung des Reisepreises durch den Reiseveranstalter zulässig?",
+    "answer": "Eine Preiserhöhung ist nur dann möglich, wenn sich der Reiseveranstalter im Vertrag eine nachträgliche Preiserhöhung vorbehalten hat und er bei bestimmten Kostenfaktoren, zum Beispiel den Treibstoffpreisen, selbst von Preiserhöhungen betroffen wurde. Zudem kann der Veranstalter bis zum 21. Tag vor dem vereinbarten Reisetermin eine Preiserhöhung verlangen.",
+    "source_document": "Der_Reisevertrag.md"
+  },
+  {
+    "question": "Unter welcher bundesweit einheitlichen Rufnummer kann man das Bundesministerium für Bildung und Forschung bei der Suche nach einer passenden Weiterbildung erreichen?",
+    "answer": "Das Bundesministerium für Bildung und Forschung ist unter der bundesweit einheitlichen Rufnummer 0800 2017909 erreichbar.",
+    "source_document": "Weiterbildung.md"
+  },
+  {
+    "question": "Welche Sirenensignale deuten im Notfall auf einen Feueralarm hin?",
+    "answer": "Im Feueralarm ertönen die Sirenensignale 3x12 Sekunden mit Pausen von 12 Sekunden.",
+    "source_document": "Was_tun_bei_akuter_Gefahr.md"
+  },
+  {
+    "question": "Welche Dokumente sollte man zum Wahlraum mitbringen?",
+    "answer": "Sie sollten die Wahlbenachrichtigung oder den Wahlschein (sofern von Ihnen beantragt) und Ihren Personalausweis oder den Reisepass zum Wahlraum mitbringen.",
+    "source_document": "Stimmabgabe_Kommunalwahl.md"
+  },
+  {
+    "question": "Welche Dokumente benötigen Unionsbürger, um sich bis zu drei Monate in einem anderen EU-Mitgliedsstaat aufzuhalten, beispielsweise auf Arbeitssuche?",
+    "answer": "Lediglich ein gültiger Personalausweis oder Reisepass wird benötigt.",
+    "source_document": "Arbeitnehmerfreizügigkeit_für_Unionsbürger.md"
+  },
+  {
+    "question": "Welche gesetzlichen Güterstände können Eheleute durch einen Ehevertrag regeln oder ändern?",
+    "answer": "In Eheverträgen können die Eheleute ihre güterrechtlichen Verhältnisse vertraglich regeln, insbesondere den gesetzlichen Güterstand der Zugewinngemeinschaft aufheben oder ändern.",
+    "source_document": "Ehevertrag.md"
+  },
+  {
+    "question": "Welche drei Eigenschaften sollte ein Businessplan aufweisen, um glaubwürdig und ansprechend zu sein?",
+    "answer": "Der Businessplan sollte leicht verständlich sein, eine sachliche und realistische Darstellung bieten und hinsichtlich der Form, Aufbereitung und des Inhalts ansprechend sein.",
+    "source_document": "Businessplan.md"
+  },
+  {
+    "question": "Welche Zielgruppen richten sich Inklusionsbetriebe vor allem an?",
+    "answer": "Inklusionsbetriebe richten sich vor allem an schwerbehinderte Menschen mit geistiger oder seelischer Behinderung oder einer schweren Körper-, Sinnes- oder Mehrfachbehinderung, sowie an schwerbehinderte Menschen, die nach gezielter Vorbereitung in einer Werkstatt für behinderte Menschen (WfbM) oder in einer psychiatrischen Einrichtung für einen Übergang auf den allgemeinen Arbeitsmarkt in Betracht kommen und auf diesen Übergang vorbereitet werden sollen, schwerbehinderte Menschen nach Beendigung einer schulischen Bildung und schwerbehinderte Menschen, die langzeitarbeitslos im Sinne des § 18 Drittes Buch Sozialgesetzbuch (SGB 3) sind.",
+    "source_document": "Inklusionsbetriebe.md"
+  },
+  {
+    "question": "Welche häufige Ursache für das Scheitern von Unternehmensnachfolgen wird im Text genannt?",
+    "answer": "Einer der häufigsten Gründe für das Scheitern von Nachfolgen ist der mangelnde Übergabewille eines Unternehmers.",
+    "source_document": "Vorbereitung_und_Planung.md"
+  },
+  {
+    "question": "Welche Mitgliedstaaten erkennen das Europäische Nachlasszeugnis nicht an?",
+    "answer": "Dänemark, Irland und Großbritannien erkennen das Europäische Nachlasszeugnis nicht an.",
+    "source_document": "Erbschein.md"
+  },
+  {
+    "question": "Welche finanziellen Unterstützungen werden für werdende Mütter als die wichtigsten genannt?",
+    "answer": "Zu den wichtigsten finanziellen Unterstützungen werdender Mütter gehören das Mutterschaftsgeld (unterschieden nach gesetzlich Versicherten und nicht gesetzlich Versicherten) sowie der Mutterschutzlohn.",
+    "source_document": "Beihilfen_während_der_Schwangerschaft.md"
+  },
+  {
+    "question": "Welche Behörde muss bei einem Umzug ins Ausland oder beim Aufgeben eines Nebenwohnsitzes ohne Begründung eines neuen Nebenwohnsitzes informiert werden?",
+    "answer": "Bei einem Umzug ins Ausland oder wenn Sie einen Nebenwohnsitz aufgeben, ohne einen neuen Nebenwohnsitz zu begründen, müssen Sie sich bei der Meldebehörde abmelden.",
+    "source_document": "Umzug.md"
+  },
+  {
+    "question": "Unter welchen Umständen können Eltern Freibeträge für Kinder beantragen, anstatt Kindergeld zu erhalten?",
+    "answer": "Eltern können Freibeträge für Kinder beantragen, anstatt Kindergeld zu erhalten, wenn der Anspruch auf Kindergeld die individuelle steuerliche Wirkung der Freibeträge nicht ausgleichen kann. Dies wird zumeist nur bei relativ hohem Einkommen der Fall sein.",
+    "source_document": "Freibeträge_für_Kinder_Kindergeld_Familienleistungsausgleich.md"
+  },
+  {
+    "question": "Wo findet man ausführliche Informationen zur Planung und Steuerung sowie hilfreiche Planungswerkzeuge?",
+    "answer": "Ausführliche Informationen zur Planung und Steuerung sowie hilfreiche Planungswerkzeuge finden Sie unter anderem im Unternehmensportal des Bundesministeriums für Wirtschaft und Energie und im Internetauftritt der Industrie- und Handelskammern.",
+    "source_document": "Linksammlung_planen_steuern_motivieren.md"
+  },
+  {
+    "question": "Welche Notrufnummer kann man in ganz Deutschland sowie in den meisten europäischen Ländern nutzen?",
+    "answer": "Über die Notrufnummer 112 können Sie die Einsatzkräfte in ganz Deutschland sowie in den meisten europäischen Ländern erreichen.",
+    "source_document": "Probleme_und_Hilfen_unterwegs.md"
+  },
+  {
+    "question": "Welche Aufgabe haben Vertrauenslehrer an sächsischen Schulen und wer wählt sie?",
+    "answer": "Vertrauenslehrer haben vorrangig die Aufgabe, die Schüler bei der Wahrnehmung ihrer Schülervertretungsrechte zu beraten. Sie können ab der Sekundarstufe an sächsischen Schulen vom Schülerrat gewählt werden.",
+    "source_document": "Erwachsen_werden.md"
+  },
+  {
+    "question": "Welche Maßnahmen können Sie ergreifen, um sichere Passwörter zu erstellen, laut den Angaben im Text?",
+    "answer": "Laut dem Text sollten Sie sich einen Satz mit mindestens acht Wörtern merken, diesen auf die Anfangsbuchstaben reduzieren, wo möglich Buchstaben durch Zahlen ersetzen und gegebenenfalls Sonderzeichen hinzufügen.",
+    "source_document": "Verbrauchertipps_für_das_Internet.md"
+  },
+  {
+    "question": "Welche Einrichtungen bieten Beratung und Hilfe bei der Standortsuche für Existenzgründer an?",
+    "answer": "Bei der Standortsuche helfen die kommunalen und regionalen Wirtschaftsfördergesellschaften, Innovations-, Technologie- und Gründerzentren, die sächsischen Industrie- und Handelskammern (IHK) und die Wirtschaftsförderung Sachsen GmbH.",
+    "source_document": "Standortwahl.md"
+  },
+  {
+    "question": "Welchen pauschalisierten Abgabensatz müssen Reisende für bestimmte Waren bezahlen, wenn der Wert der abgabenpflichtigen Waren EUR 700 nicht übersteigt?",
+    "answer": "Der pauschalierte Abgabensatz beträgt 17,5 Prozent des Warenwerts. Für bestimmte Waren werden vergünstigte Zollsätze, sogenannte Präferenzen, angewandt. Hier müssen Sie in der Regel 15 Prozent des Warenwerts an Abgaben bezahlen.",
+    "source_document": "Einreise_aus_Drittstaaten_Einfuhrabgaben.md"
+  },
+  {
+    "question": "Welche Maßnahmen werden empfohlen, um Kindern bei Hitze im Auto Komfort zu bieten?",
+    "answer": "Um Kindern bei Hitze im Auto Komfort zu bieten, empfiehlt man, nicht mit offenem Fenster oder zu kühler Klimaanlage zu fahren. Sonnenblenden an den hinteren Seitenscheiben helfen vor der Sonne. An sehr heißen Tagen kann ein Frotteetuch im Kindersitz Schweiß aufsaugen und Wasser auf Arme und Beine gerieben werden.",
+    "source_document": "Richtiges_Verhalten_während_der_Fahrt.md"
+  },
+  {
+    "question": "Welche Organisationen oder Netzwerke sind im Freistaat Sachsen aktiv, um die Entwicklung der Telekommunikation zu fördern und Kontakte zwischen Wirtschaft, Wissenschaft und Verwaltung zu pflegen?",
+    "answer": "Das Sächsische Telekommunikationszentrum möchte die Entwicklung der Telekommunikation in Sachsen fördern. Die Plattform vermittelt und pflegt Kontakte zwischen Wirtschaft, Wissenschaft und Verwaltung.",
+    "source_document": "Informations-_Kommunikations-_und_Medienwirtschaft.md"
+  },
+  {
+    "question": "Welche Themen werden unter dem Titel 'Kinder und Beruf' auf der Seite Amt24 behandelt?",
+    "answer": "Unter dem Titel 'Kinder und Beruf' werden die Themen Elternzeit und Elterngeld, Kinderbetreuung, Rückkehr in die Arbeitswelt sowie eine Linksammlung Familie, Kinder und Beruf behandelt.",
+    "source_document": "Kinder_und_Beruf.md"
+  },
+  {
+    "question": "Wie viele Abgeordnete des Bundestages werden mit der Erststimme direkt gewählt?",
+    "answer": "Von den insgesamt 598 Abgeordneten des Bundestages werden 299 mit der Erststimme direkt gewählt (Direktmandate).",
+    "source_document": "Wahlergebnis_Sitzverteilung_Bundestagswahl.md"
+  },
+  {
+    "question": "Welche zwei Behörden sind in Chemnitz, Dresden und Leipzig zuständig für den Erwerb eines Beiblattes mit Wertmarke für Inhaber eines Schwerbehindertenausweises?",
+    "answer": "In Chemnitz, Dresden und Leipzig ist die Stadtverwaltung zuständig für den Erwerb eines Beiblattes mit Wertmarke.",
+    "source_document": "Mobilität_für_behinderte_Menschen.md"
+  },
+  {
+    "question": "Welche Aufgaben umfasst der Geschäftsbereich des Sächsischen Staatsministeriums des Innern?",
+    "answer": "Der Geschäftsbereich des Sächsischen Staatsministeriums des Innern umfasst unter anderem auch den Denkmalschutz, die Denkmalpflege und das Vermessungswesen.",
+    "source_document": "Linksammlung_Bauen.md"
+  },
+  {
+    "question": "Welche Instrumente stehen Unternehmen zur Verfügung, die eine Unternehmenskonsolidierung und -umstrukturierung durchführen möchten?",
+    "answer": "Zur Unternehmenskonsolidierung und -umstrukturierung stehen folgende Instrumente zur Verfügung: vorübergehende Stützung der Liquidität (Rettungsbeihilfe), Mitfinanzierung der betrieblichen und finanziellen Umstrukturierung (Umstrukturierungsbeihilfe), Zuschüsse zu den Kosten der Erstellung eines Insolvenzplans und Massedarlehen.",
+    "source_document": "Rat_und_Hilfe_bei_wirtschaftlichen_Engpässen.md"
+  },
+  {
+    "question": "Welche Telefonnummer können junge Leute montags bis freitags zwischen 14 und 20 Uhr anrufen, um Rat und Trost zu finden?",
+    "answer": "Junge Leute können die kostenlose Rufnummer 0800 1110333 des Kinder- und Jugendtelefons anrufen.",
+    "source_document": "Konflikte_zwischen_Eltern_und_Kindern.md"
+  },
+  {
+    "question": "Welche Verantwortlichkeiten trägt der Bauherr, wenn Verwandte und Freunde beim Bauen helfen?",
+    "answer": "Der Bauherr ist für die ordnungsgemäße und den Vorschriften entsprechende Bauausführung verantwortlich, auch wenn ihm Verwandte oder Freunde bei der Arbeit behilflich sind.",
+    "source_document": "Private_Helfer.md"
+  },
+  {
+    "question": "Unter welchen Voraussetzungen ist eine Berufung vor dem Landesarbeitsgericht möglich?",
+    "answer": "Eine Berufung ist nur unter gewissen Voraussetzungen möglich, nämlich wenn der Wert EUR 600,00 übersteigt, die Berufung zugelassen wurde, es um den Bestand eines Arbeitsverhältnisses geht oder ein Urteil aufgrund der Nichtteilnahme am Gerichtsverfahren (Versäumnisurteil) ergangen ist und sich die Einspruchsfrist bereits verstrichen hat.",
+    "source_document": "Rechtsweg_zu_den_Arbeitsgerichten.md"
+  },
+  {
+    "question": "Welche Punkte können durch örtliche Bauvorschriften geregelt werden, um das Ortsbild zu erhalten oder zu gestalten?",
+    "answer": "Örtliche Bauvorschriften können unter anderem die Anordnung und Ausrichtung von Gebäuden, Dachform, Dachneigung, Farbe und Material der Dachdeckung, Werkstoff, Putz und Farbe von Fassaden, Gestaltung von Fenstern sowie Zulässigkeit und Gestaltung von Erkern, Balkonen, Hauseingängen, Terrassen betreffen.",
+    "source_document": "Örtliche_Bauvorschriften.md"
+  },
+  {
+    "question": "Welche Themenbereiche werden von Schulpsychologinnen und Schulpsychologen im Zusammenhang mit der Schullaufbahn behandelt?",
+    "answer": "Die Psychologinnen und Psychologen geben Auskunft zu: Schulfähigkeit und Einschulung, sonderpädagogischer Förderbedarf, Bildungswege, zum Beispiel beim Übergang an weiterführende Schulen, bei Schulwechsel und bei der Wahl des abschlussbezogenen Unterrichts.",
+    "source_document": "Schulpsychologische_Beratung.md"
+  },
+  {
+    "question": "Welche Rechte haben Sie, wenn Sie feststellen, dass Behörden oder Unternehmen Ihre Daten nicht sorgsam verwalten?",
+    "answer": "Wenn Sie feststellen, dass Behörden oder Unternehmen Ihre Daten nicht sorgsam verwalten, haben Sie das Recht eine Datenschutzbeschwerde einzureichen. Das Gleiche gilt, wenn Ihre Daten ohne Ihr Wissen weitergeleitet wurden oder Sie keinen Einblick in die über Sie gespeicherten Daten erhalten.",
+    "source_document": "Datenschutz.md"
+  },
+  {
+    "question": "Welchen Beitrag leisten Arbeitnehmer und Arbeitgeber jeweils zum gesetzlich festgelegten allgemeinen Krankenkassenbeitrag?",
+    "answer": "Arbeitnehmer und Arbeitgeber finanzieren den gesetzlich festgelegten allgemeinen Beitragssatz von 14,6 Prozent der beitragspflichtigen Einnahmen jeweils zur Hälfte.",
+    "source_document": "Versicherungsbeitrag_und_Zuzahlung.md"
+  },
+  {
+    "question": "Welche Telefonnummer können Rentner wählen, wenn sie Beratung oder Hilfe benötigen?",
+    "answer": "Die Mitarbeiter der Deutschen Rentenversicherung stehen Ihnen am Telefon mit Rat und Tat zur Verfügung unter der Nummer 0 800 1000 4807.",
+    "source_document": "Linksammlung_Rund_um_die_Rente.md"
+  },
+  {
+    "question": "Welche Gewerbe benötigen zusätzlich zur Gewerbeanmeldung und steuerlichen Erfassung eine Genehmigung, Konzession, Bewilligung oder Zulassung?",
+    "answer": "Zu diesen Gewerben gehören unter anderem die der Immobilienmakler, Darlehensvermittler, Bauträger, Baubetreuer sowie Wohnimmobilienverwalter.",
+    "source_document": "Immobilienmakler_Darlehensvermittler_Bauträger_Baubetreuer_und_Wohnimmobilienverwalter.md"
+  },
+  {
+    "question": "Unter welchen Umständen können Pflegeeltern einen Anspruch auf Anrechnung der Kindererziehungszeiten für die Rentenversicherung haben?",
+    "answer": "Pflegeeltern haben einen Anspruch auf Anrechnung der Kindererziehungszeiten für die Rentenversicherung, wenn sie ein Pflegekind in den ersten 36 Monaten nach dessen Geburt erziehen, das Pflegekind in den Haushalt integriert ist und das Pflegeverhältnis auf einen längeren Zeitraum angelegt ist.",
+    "source_document": "Pflegegeld_Sozialversicherung_Elternzeit.md"
+  },
+  {
+    "question": "Welche Instanzen sind im Finanzgerichtsbarkeitsverfahren vorhanden und wo haben diese ihren Sitz?",
+    "answer": "Im Finanzgerichtsbarkeitsverfahren sind die Finanzgerichte, der Bundesfinanzhof mit Sitz in München sowie der Amt24-Behördenwegweiser (als Verweis) vorhanden.",
+    "source_document": "Rechtsweg_zu_den_Finanzgerichten.md"
+  },
+  {
+    "question": "Welche Arten von Vorsorgeerklärungen werden im Text genannt?",
+    "answer": "Im Text werden Bestattungsvorsorge, Betreuungsverfügung, Patientenverfügung, Testament und Vorsorgevollmacht als Vorsorgeerklärungen genannt.",
+    "source_document": "Vorsorge_für_Krankheit_Unfall_Tod.md"
+  },
+  {
+    "question": "Was ist laut Vertrag die Schadensminderungspflicht und warum ist sie wichtig?",
+    "answer": "Laut Vertrag sind Sie dazu verpflichtet, den Schaden zu vermeiden oder zu vermindern. Denn die Versicherung wird Sie möglicherweise fragen, wie Sie versucht haben, den Schaden zu vermeiden oder zu vermindern.",
+    "source_document": "Wie_schütze_ich_Haus_und_Wohnung.md"
+  },
+  {
+    "question": "Unter welchen Umständen benötigt ein Unternehmen eine Erlaubnis der Straßenverkehrsbehörde für einen Transport im öffentlichen Straßenraum?",
+    "answer": "Ein Unternehmen benötigt hierfür eine Erlaubnis, wenn der Transport Abmessungen, Achslasten oder Gesamtgewichte überschreitet, die gesetzlich allgemein zugelassen sind.",
+    "source_document": "Besondere_Erlaubnisse_im_Straßenverkehr.md"
+  },
+  {
+    "question": "Welche Gebäude fallen unter die Kategorie der Sonderbauten aufgrund ihrer Grundfläche?",
+    "answer": "Sonderbauten umfassen Gebäude mit mehr als 1.600 Quadratmeter Grundfläche des Geschosses mit der größten Ausdehnung, ausgenommen Wohngebäude und Garagen sowie land- oder forstwirtschaftliche Gebäude mit nicht mehr als 10.000 Kubikmeter Brutto-Rauminhalt.",
+    "source_document": "Gebäudeklassen_und_Sonderbauten.md"
+  },
+  {
+    "question": "Welche drei Gruppen von Personen sind bauvorlageberechtigt?",
+    "answer": "Bauvorlageberechtigt ist, wer die Berufsbezeichnung Architekt führen darf, in die von der Ingenieurkammer Sachsen geführte Liste der Bauvorlageberechtigten eingetragen ist oder für bauliche Änderungen an Gebäuden, die die Aufgaben eines Innenarchitekten betreffen, ein Innenarchitekt ist.",
+    "source_document": "Bauvorlageberechtigter_Entwurfsverfasser.md"
+  },
+  {
+    "question": "Welche Faktoren sollten bei der Wahl der Rechtsform eines Unternehmens berücksichtigt werden?",
+    "answer": "Die Wahl der Rechtsform Ihres Unternehmens sollte auf persönlichen, finanziellen, steuerlichen und rechtlichen Überlegungen basieren.",
+    "source_document": "Wahl_der_Rechtsform.md"
+  },
+  {
+    "question": "Unter welchen Umständen haben Sie keinen Anspruch auf Gewährleistung, obwohl die Ware mangelhaft ist?",
+    "answer": "Wenn Sie einen Kaufvertrag abschließen und die Mängel bereits kennen, haben Sie für diese Mängel keinen Anspruch auf Gewährleistung.",
+    "source_document": "Reklamation.md"
+  },
+  {
+    "question": "Welche Rechtsformen sind für freiberuflich tätige Rechtsanwälte besonders relevant?",
+    "answer": "Die wichtigsten Rechts- und Kooperationsformen für freiberuflich Tätige sind: Einzelunternehmen, Gesellschaft bürgerlichen Rechts (GbR), Partnerschaftsgesellschaft (PartG), Gesellschaft mit beschränkter Haftung (GmbH) und Unternehmergesellschaft (haftungsbeschränkt).",
+    "source_document": "Freie_Berufe_Rechtsanwälte.md"
+  },
+  {
+    "question": "Bis wann müssen Eltern ihr Kind anmelden, wenn es schulpflichtig ist?",
+    "answer": "Die Anmeldung muss im Zeitraum vom 01.08. bis zum 15.09. des Jahres vor der Einschulung erfolgen.",
+    "source_document": "Vorbereitung_auf_die_Schule.md"
+  },
+  {
+    "question": "Welche Themen werden unter dem Hauptbereich 'Unternehmenskrise, Insolvenz, Sanierung' auf der Seite Amt24 behandelt?",
+    "answer": "Unter diesem Bereich werden folgende Themen behandelt: Unternehmenskrise, Insolvenz einleiten, Insolvenz-Ablauf, Insolvenz-Abschluss, Rechte der Gläubiger, Finanzielle Hilfen und Beratungsleistungen sowie eine Linksammlung zum Thema.",
+    "source_document": "Unternehmenskrise_Insolvenz_Sanierung.md"
+  },
+  {
+    "question": "Welchen Zeitraum umfassen die 'Berücksichtigungszeiten wegen Kindererziehung'?",
+    "answer": "Die Berücksichtigungszeiten wegen Kindererziehung umfassen den Zeitraum von der Geburt bis zum Tag der Vollendung des zehnten Lebensjahres eines Kindes.",
+    "source_document": "Berücksichtigungszeiten.md"
+  },
+  {
+    "question": "Welche Art von Situationen erfordern einen Notruf bei der Polizei unter der Nummer 110?",
+    "answer": "Eine solche Situation liegt beispielsweise vor, wenn Sie oder andere Personen in Gefahr für Leib und Leben geraten sind, Opfer oder Zeuge einer Straftat wurden, dringende Fahndungshinweise geben können oder verdächtige Wahrnehmungen gemacht haben.",
+    "source_document": "Ordnungswidrigkeiten.md"
+  },
+  {
+    "question": "Welche Wirtschaftsbereiche werden in diesem Kapitel grundlegend vorgestellt?",
+    "answer": "In diesem Kapitel werden grundlegende Informationen zu den folgenden Wirtschaftsbereichen vorgestellt: Dienstleistungen, Gastronomie, Handel, Handwerk, Industrie, Informations-, Kommunikations- und Medienwirtschaft, Land- und Forstwirtschaft sowie Logistik und Verkehr.",
+    "source_document": "Brancheninformationen.md"
+  },
+  {
+    "question": "Was sollten Sie Ihrem Arbeitgeber mitteilen, wenn sich Ihr Name durch die Heirat ändert?",
+    "answer": "Sie sollten dies möglichst umgehend Ihrem Arbeitgeber mitteilen.",
+    "source_document": "Namensänderung_beim_Arbeitgeber.md"
+  },
+  {
+    "question": "Laut der ICD, welcher Kategorie werden pathologische Glücksspiele zugeordnet?",
+    "answer": "Pathologisches (krankhafte) Glücksspiel wird in der aktuellen Version der Internationalen statistischen Klassifikation der Krankheiten und verwandter Gesundheitsprobleme (ICD) als Störungen der Impulskontrolle (F63.0) eingeordnet.",
+    "source_document": "Weitere_Suchtformen.md"
+  },
+  {
+    "question": "Unter welchen Umständen kann das Familiengericht den Umgang zwischen einem Kind und bestimmten Personen einschränken oder ganz verbieten?",
+    "answer": "Nur wenn das Kindeswohl gefährdet ist, kann das Familiengericht den Umgang zu bestimmten Personen einschränken oder ganz verbieten.",
+    "source_document": "Umgang_formt_den_Menschen_Umgangsrecht.md"
+  },
+  {
+    "question": "Wie kann sich gesetzlich Krankenversicherter langfristig finanziell von regelmäßigen Kontrolluntersuchungen beim Zahnarzt profitieren?",
+    "answer": "Gesetzlich Krankenversicherte, die mindestens einmal jährlich eine Kontrolluntersuchung im Bonusheft dokumentieren können, erhalten einen bis zu 30 Prozent höheren Zuschuss zum Festzuschuss, wenn sie Zahnersatz benötigen.",
+    "source_document": "Zahnärztliche_Versorgung.md"
+  },
+  {
+    "question": "Welche Dokumente sollte der Verkäufer vom Käufer schriftlich als Empfangsbestätigung erhalten, wenn ein Fahrzeug verkauft wird?",
+    "answer": "Der Verkäufer sollte den Käufer den Empfang der Zulassungsbescheinigungen Teil I (Fahrzeugschein) und Teil II (Fahrzeugbrief) sowie der Kennzeichen (wenn das Fahrzeug noch zugelassen ist) schriftlich bestätigen lassen.",
+    "source_document": "Fahrzeugverkauf_Fahrzeugabmeldung.md"
+  },
+  {
+    "question": "In Gebäuden mit mehr als zwei Wohnungen, welche Räume müssen innerhalb der barrierefrei erreichbaren Wohnungen vorhanden sein?",
+    "answer": "In diesen Wohnungen müssen die Wohn- und Schlafräume, eine Toilette, ein Bad und die Küche beziehungsweise die Kochnische barrierefrei sein.",
+    "source_document": "Barrierefreies_Bauen.md"
+  },
+  {
+    "question": "Unter welchen Umständen haften beide Ehepartner bei Schulden im Zusammenhang mit einem Bankkonto während einer Scheidung?",
+    "answer": "Wenn das Gemeinschaftskonto überzogen ist, so sind das gemeinsame Schulden gegenüber der Bank.",
+    "source_document": "Bankkonto_und_Schulden.md"
+  },
+  {
+    "question": "Welche Stellen organisieren Meisterfortbildungen, wenn diese nicht bereits bundeseinheitlich geregelt sind?",
+    "answer": "Wenn Meisterfortbildungen nicht bereits bundeseinheitlich geregelt sind, können diese von den für den jeweiligen Beruf zuständigen Stellen organisiert werden. In der Regel sind das die Industrie- und Handelskammern (IHK) und die Handwerkskammern (HWK).",
+    "source_document": "Berufliche_Weiterbildung.md"
+  },
+  {
+    "question": "Welche konkreten finanziellen Vorteile können Arbeitgeber erhalten, wenn sie schwerbehinderte Menschen beschäftigen?",
+    "answer": "Arbeitgeber können von unterschiedlichen Leistungsträgern Zuschüsse, Prämien oder Förderdarlehen erhalten. Dazu zählen beispielsweise Prämien für die Schaffung von Ausbildungsplätzen im Rahmen des Arbeitsmarktprogrammes „Wir machen das!“, Investitionskostenzuschüsse, Prämien und Zuschüsse zu Gebühren und Kosten der Berufsausbildung behinderter Jugendlicher und junger Erwachsener sowie Zuschüsse zur Ausbildungsvergütung.",
+    "source_document": "Beratung_und_finanzielle_Unterstützung_zur_Ausbildung_bei_Behinderung.md"
+  },
+  {
+    "question": "Welche Gesellschaftsformen können die Bezeichnung 'Steuerberatergesellschaft' führen, vorausgesetzt sie erhalten Anerkennung durch die Steuerberaterkammer?",
+    "answer": "Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Gesellschaften mit beschränkter Haftung, Offene Handelsgesellschaften, Kommanditgesellschaften und Partnerschaftsgesellschaften können die Bezeichnung 'Steuerberatergesellschaft' führen.",
+    "source_document": "Berufsbezeichnungen_in_Gesellschaftsnamen.md"
+  },
+  {
+    "question": "Welche Arten von Institutionen bieten begabten Studierenden Stipendien an?",
+    "answer": "Hochschulen, Firmen, Vereine, parteinahe Stiftungen und konfessionelle Träger bieten begabten Studierenden finanzielle Hilfe in Form von Stipendien an.",
+    "source_document": "Stipendien_und_Begabtenförderung.md"
+  },
+  {
+    "question": "Unter welchen Umständen kann ein Mann die Vaterschaft anfechten?",
+    "answer": "Ein Mann kann die Vaterschaft anfechten, wenn er mit der Mutter verheiratet war, als das Kind zur Welt kam; wenn er die Vaterschaft anerkannt hat; wenn er an Eides statt versichert hat, dass er während der Empfängniszeit beiwohnte (unter bestimmten Bedingungen); wenn er die Mutter ist; oder wenn es sich um das Kind handelt.",
+    "source_document": "Wo_komme_ich_her.md"
+  },
+  {
+    "question": "Bis wann konnten Betroffene der DDR-Heimerziehung beim Fonds \"Heimerziehung in der DDR\" Hilfebedarf anmelden?",
+    "answer": "Betroffene der DDR-Heimerziehung konnten bis zum 30.09.2014 Hilfebedarf beim Fonds \"Heimerziehung in der DDR in den Jahren 1949 bis 1990“ anmelden.",
+    "source_document": "Rehabilitierung_und_Entschädigung_für_Opfer_von_DDR-Unrecht.md"
+  },
+  {
+    "question": "Welche Voraussetzung muss erfüllt sein, um eine Kreditkarte zu erhalten?",
+    "answer": "Voraussetzung zum Erhalt einer Kreditkarte ist ausreichende Bonität, die häufig in Form regelmäßiger Zahlungseingänge nachgewiesen werden muss.",
+    "source_document": "Kreditkarten_und_Schecks.md"
+  },
+  {
+    "question": "Welche Vorteile bietet eine ambulante Entbindung in einer Klinik?",
+    "answer": "Eine ambulante Entbindung in einer Klinik bietet den Vorteil, dass im Falle einer Komplikation sofort ärztliche Hilfe zur Stelle ist.",
+    "source_document": "PV-Lage_Geburt.md"
+  },
+  {
+    "question": "Welche Informationen sind dem Partnerschaftsregister unter anderem zu entnehmen?",
+    "answer": "Dem Partnerschaftsregister sind unter anderem zu entnehmen: Name, Sitz und Gegenstand der Partnerschaft; die Berufsbezeichnungen aller zur Partnerschaft gehörenden Berufe; die an der Partnerschaft beteiligten Partner nebst Vertretungsbefugnis; die Eröffnung, Einstellung oder Aufhebung des Insolvenzverfahrens; die Auflösung der Partnerschaft; das Erlöschen der Partnerschaft.",
+    "source_document": "Partnerschaftsregister.md"
+  },
+  {
+    "question": "Welche Tätigkeit erfordert eine Eintragung im Vermittlerregister?",
+    "answer": "Die Gewerbe der Versicherungsvermittlung.",
+    "source_document": "Vermittlerregister.md"
+  },
+  {
+    "question": "Wann wurde das Audit „berufundfamilie“ von der Hertie-Stiftung entwickelt?",
+    "answer": "Das Audit „berufundfamilie“ wurde 1995 von der Hertie-Stiftung entwickelt.",
+    "source_document": "Wie_familienfreundlich_ist_Ihr_Unternehmen.md"
+  },
+  {
+    "question": "Welche drei therapeutischen Methoden werden in Deutschland von den gesetzlichen Krankenkassen anerkannt und bezahlt?",
+    "answer": "In Deutschland werden psychoanalytische Therapie, tiefenpsychologisch fundierte Psychotherapie und Verhaltenstherapie von den gesetzlichen Krankenkassen anerkannt und bezahlt.",
+    "source_document": "Psychotherapy.md"
+  },
+  {
+    "question": "Welche Wettbewerbe hat die Sächsische Staatsregierung unter anderem initiiert?",
+    "answer": "Die Sächsische Staatsregierung hat unter anderem den futureSAX-Ideenwettbewerb, Transferpreis, Innovationspreis und Designpreis initiiert.",
+    "source_document": "Sonstige_Förderungen.md"
+  },
+  {
+    "question": "Unter welchen Umständen benötigen Bürgerinnen und Bürger der Europäischen Union möglicherweise ein Visum für ihre Reise?",
+    "answer": "Ein Visum benötigen Sie jedoch in vielen Fällen, wenn Sie beabsichtigen, im Reiseland länger als drei Monate zu bleiben, einer Arbeit nachzugehen oder ein Studium zu absolvieren.",
+    "source_document": "Dokumente_und_Visa.md"
+  },
+  {
+    "question": "Welche Dokumente sollten Sie zum Wahllokal mitbringen, wenn Sie im Wählerverzeichnis eingetragen sind?",
+    "answer": "Wenn Sie im Wählerverzeichnis eingetragen sind, sollten Sie Ihren Personalausweis oder den Reisepass und die Wahlbenachrichtigungskarte (oder den Wahlschein) zum Wahllokal mitbringen.",
+    "source_document": "Stimmabgabe_Europawahl.md"
+  },
+  {
+    "question": "In welcher Reihenfolge ermittelt der Wahlvorstand das Ergebnis bei Kommunalwahlen, wenn mehrere Wahlen gemeinsam stattfinden?",
+    "answer": "Bei mehreren Kommunalwahlen gemeinsam ermittelt der Wahlvorstand im Wahlbezirk das Ergebnis für jede Wahl in der Reihenfolge: Bürgermeisterwahl, Landratswahl, Gemeinderatswahl, Kreistagswahl und Ortschaftsratswahl.",
+    "source_document": "Wahlergebnis_Kommunalwahl.md"
+  },
+  {
+    "question": "Seit wann müssen Baubeschreibungen bei Bauverträgen Mindestanforderungen erfüllen und einen verbindlichen Termin zur Fertigstellung beinhalten?",
+    "answer": "Seit 2017, mit Inkrafttreten einer Gesetzesnovelle.",
+    "source_document": "Bauen.md"
+  },
+  {
+    "question": "Welche Altersvoraussetzungen gelten für ein Ehepaar, das gemeinsam ein Kind adoptieren möchte?",
+    "answer": "Ein Ehepaar kann ein Kind nur gemeinsam annehmen, dabei muss einer der Ehegatten mindestens 25, der oder die andere 21 Jahre alt sein.",
+    "source_document": "Ein_Kind_adoptieren.md"
+  },
+  {
+    "question": "Welche Personen haben einen Anspruch auf den Pflichtteil, wenn sie vom Erblasser enterbt wurden?",
+    "answer": "Abkömmlinge, Eltern sowie Ehe- und Lebenspartner haben einen Anspruch auf den so genannten Pflichtteil, wenn sie als gesetzliche Erben geerbt hätten, jedoch vom Erblasser enterbt wurden.",
+    "source_document": "Pflichtteil.md"
+  },
+  {
+    "question": "Unter welchen Umständen sind Unternehmen verpflichtet, einen Datenschutzbeauftragten zu bestellen?",
+    "answer": "Unternehmen haben einen Datenschutzbeauftragten zu bestellen, wenn die Kerntätigkeit des Verantwortlichen oder des Auftragsverarbeiters in der Durchführung von Verarbeitungsvorgängen besteht, welche aufgrund ihrer Art, ihres Umfangs und/oder ihrer Zwecke eine umfangreiche regelmäßige und systematische Überwachung von betroffenen Personen erforderlich machen, oder wenn die Kerntätigkeit in der umfangreichen Verarbeitung besonderer Kategorien von Daten gemäß Art. 9 oder von personenbezogenen Daten über strafrechtliche Verurteilungen und Straftaten gemäß Art. 10 Datenschutz-Grundverordnung besteht, oder wenn mindestens 10 Personen ständig mit der automatisierten Verarbeitung personenbezogener Daten beschäftigt werden.",
+    "source_document": "Betrieblicher_Datenschutz.md"
+  },
+  {
+    "question": "Wie viel kostet die 'BahnCard 25 für Jugendliche' und welchen Rabatt erhalten Kinder und Jugendliche damit?",
+    "answer": "Die 'BahnCard 25 für Jugendliche' kostet EUR 10,00. Damit erhalten Kinder und Jugendliche von 6 bis 18 Jahren 25 Prozent Rabatt auf den Fahrpreis.",
+    "source_document": "Ermäßigungen_für_Kinder_und_Jugendliche.md"
+  },
+  {
+    "question": "Welche drei Dinge müssen Sie gegebenenfalls nach der Heirat kümmern?",
+    "answer": "Nach der Heirat müssen Sie sich gegebenenfalls gleich um mehrere Dinge kümmern: Änderung des Namens, Änderung des Familienstandes und Änderung der Adresse.",
+    "source_document": "Nach_der_Heirat.md"
+  },
+  {
+    "question": "Welche Gebäude dürfen ohne Verfahrensfreiheit abgerissen werden, gemäß der Sächsischen Bauordnung?",
+    "answer": "Verfahrensfrei dürfen Sie abreißen: die Anlagen, die gemäß der Sächsischen Bauordnung verfahrensfrei sind; frei stehende Gebäude der Gebäudeklassen 1 und 3; sonstige Anlagen, die keine Gebäude und nicht höher als zehn Meter sind.",
+    "source_document": "Verfahrensfreie_Bauvorhaben.md"
+  },
+  {
+    "question": "Wie oft erneuern sich die zur Anwendung kommenden steuerlichen Freibeträge bei der vorweggenommenen Erbfolge?",
+    "answer": "Die zur Anwendung kommenden steuerlichen Freibeträge gelten alle zehn Jahre neu.",
+    "source_document": "Vorweggenommene_Erbfolge.md"
+  },
+  {
+    "question": "Unter welchen Voraussetzungen können die Kosten für Unterstützung im Haushalt von der Krankenkasse übernommen werden, wenn ein Elternteil ausfällt?",
+    "answer": "Wenn Sie als Elternteil ausfallen, etwa wegen eines Krankenhaus- oder Kuraufenthaltes, so können unter bestimmten Voraussetzungen die Kosten für Unterstützung im Haushalt von der Krankenkasse übernommen werden.",
+    "source_document": "Wer_springt_ein_bei_Krankheit.md"
+  },
+  {
+    "question": "Unter welchen Umständen kann eine volljährige Person mit den gleichen Wirkungen wie bei einer Minderjährigenadoption angenommen werden?",
+    "answer": "Eine erwachsene Person kann mit den gleichen Wirkungen wie bei einer Minderjährigenadoption angenommen werden, wenn keine überwiegenden Interessen der Eltern entgegenstehen und mindestens eine der folgenden Bedingungen erfüllt ist: ein minderjähriges Geschwisterkind bereits angenommen ist oder auch angenommen werden soll, die anzunehmende Person bereits vor der Volljährigkeit in der Familie gelebt hat, der oder die Anzunehmende das Kind des Ehepartners ist oder der Adoptionsantrag vor Erlangung der Volljährigkeit beim Amtsgericht gestellt wurde und es aufgrund der Verfahrensdauer nicht mehr zum Abschluss der Minderjährigenadoption gekommen ist.",
+    "source_document": "Volljährigenadoption.md"
+  },
+  {
+    "question": "Welche Organisation bietet bundesweite Beratungsstellen für Schwangerschaftskonfliktberatung an?",
+    "answer": "donum vitae zur Förderung des Schutzes des menschlichen Lebens e.V.",
+    "source_document": "Linksammlung_Schwangerschaft_und_Geburt.md"
+  },
+  {
+    "question": "Wie soll zukünftig Ihre Nationalhymne laut dem Text anfangen?",
+    "answer": "Laut dem Text soll Ihre Nationalhymne zukünftig mit 'Einigkeit und Recht und Freiheit' anfangen.",
+    "source_document": "PV-Sublage_Einbürgerung.md"
+  },
+  {
+    "question": "Welche Steuerkategorie greift an, wenn sowohl Ehepartner als auch Lebenspartnerschaftspartner einen Lohn erzielen und beide in Deutschland wohnen?",
+    "answer": "Steuerkategorie IV.",
+    "source_document": "Tax_categories_wage_tax.md"
+  },
+  {
+    "question": "Welche Informationen sollte man der Polizei mitteilen, wenn man Opfer häuslicher Gewalt geworden ist?",
+    "answer": "Sie sollten der Polizei mitteilen, wer Sie sind und wo Sie sich gerade aufhalten, durch wen und wodurch Sie oder andere Personen, insbesondere Kinder, akut gefährdet sind, wer wie und wodurch verletzt ist und wer dies verursacht hat; ob weitere Gefahr droht, sowie ob der Täter/die Täterin Waffen besitzt, Alkohol getrunken oder Drogen genommen hat.",
+    "source_document": "Hilfe_bei_häuslicher_Gewalt.md"
+  },
+  {
+    "question": "Wie lange dauert die Wahlperiode der Stadt- und Gemeinderäte?",
+    "answer": "Die Wahlperiode der Stadt- und Gemeinderäte beträgt fünf Jahre, sie endet mit Ablauf des Monats, in dem die regelmäßigen Wahlen stattfinden.",
+    "source_document": "Was_wird_gewählt_Kommunalwahl.md"
+  },
+  {
+    "question": "Welche Faktoren beeinflussen die Anzahl der benötigten Stellplätze, Garagen und Fahrradabstellplätze?",
+    "answer": "Die Anzahl der Stellplätze, Garagen sowie der Abstellplätze für Fahrräder hängt vor allem von der Nutzung des Grundstücks ab, aber auch die örtlichen Verhältnisse können von Bedeutung sein.",
+    "source_document": "Stellplätze_Garagen_und_Abstellplätze_für_Fahrräder.md"
+  },
+  {
+    "question": "Welche Themen werden im 'Health Guide for Migrants' behandelt?",
+    "answer": "Der 'Health Guide for Migrants' behandelt unter anderem Themen wie die öffentliche Gesundheitsversorgung in Sachsen, Krankenversicherung, Regelungen nach dem Sozialcode, ärztliche Grundversorgung, HIV und AIDS, Zahnpflege, Krankenhausaufenthalte und Notfälle, Medikamente, Suchtberatung, Psychotherapie, Hilfe bei häuslicher Gewalt sowie eine Liste von Vorsorgeuntersuchungen und Impfungen.",
+    "source_document": "Health_Guide_for_Migrants.md"
+  },
+  {
+    "question": "Welche Gewerbe sind gemäß dem Text von einer Anzeige oder Erlaubnis nicht erforderlich, wenn gewerbsmäßig Dienstleistungen vorübergehend von einer Niederlassung in einem anderen EU / EWR Mitgliedsstaat erbracht werden?",
+    "answer": "Eine Anzeige / Erlaubnis ist in folgenden Fällen nicht erforderlich: Versteigerergewerbe gem. §§ 34b Abs. 1, 3, 4, 6 und 7 sowie 57 Abs. 3 [Gewerbeordnung (GewO)], Grundstücksmakler, Bauträger und Baubetreuer gem. § 34c Abs. 1 Satz 1 Nr. 1 und 4 GewO, Überwachungsbedürftige Gewerbe gem. § 38 Abs. 1 und 2 GewO, Reisegewerbe gem. § 55 Abs. 2 und 3 GewO sowie die Veranstaltung eines Wanderlagers gem. § 56a GewO.",
+    "source_document": "Genehmigungspflichtige_Gewerbe.md"
+  },
+  {
+    "question": "Unter welchen Bedingungen können Pflegeeltern beim Finanzamt beantragen, dass ihr Pflegekind beim Lohnsteuerabzug berücksichtigt wird?",
+    "answer": "Das Finanzamt berücksichtigt ein Pflegekind beim Lohnsteuerabzug, wenn es sich um eine Vollzeitpflege handelt (nicht zu Erwerbszwecken), das Obhuts- und Pflegeverhältnis zu den leiblichen Eltern nicht mehr besteht, sowie ein familienähnliches, auf längere Dauer angelegtes Verhältnis zwischen Pflegeeltern und Kind besteht und die Pflegeeltern Unterhalt durch ihre Erziehungs- und Pflegeleistung erbringen.",
+    "source_document": "Steuern_Kindergeld_Pflegekinder.md"
+  },
+  {
+    "question": "Welche Dokumente kommen für deutsche Kinder unter 16 Jahren beim Grenzübertritt ins Ausland in Betracht?",
+    "answer": "Beim Grenzübertritt ins Ausland kommen für deutsche Kinder unter 16 Jahren ein Kinderreisepass, ein eigener Reisepass oder ein eigener Personalausweis in Betracht.",
+    "source_document": "Kinderreisepass.md"
+  },
+  {
+    "question": "Welche Register sind im Text aufgelistet?",
+    "answer": "Im Text sind folgende Register aufgelistet: Gewerbezentralregister, Handelsregister, Handwerksrolle, Partnerschaftsregister, Rechtsdienstleitungsregister, Vereinsregister und Vermittlerregister.",
+    "source_document": "Register_Rollen_Verzeichnisse.md"
+  },
+  {
+    "question": "Unter welchen Voraussetzungen kann eine Partei ihren Wahlvorschlag für die Bundestagswahl einreichen?",
+    "answer": "Wenn eine Partei nicht bereits im Deutschen Bundestag oder in einem deutschen Landesparlament vertreten ist, muss sie spätestens bis zum 97. Tag vor der Wahl schriftlich anzeigen, dass sie sich an der Wahl beteiligt. Hat der Bundeswahlausschuss die Parteieigenschaft festgestellt, kann die Partei ihren Wahlvorschlag einreichen.",
+    "source_document": "Wer_darf_gewählt_werden_Bundestagswahl.md"
+  },
+  {
+    "question": "Wie hoch wird der globale Primärenergieverbrauch laut Berechnungen der Internationalen Energieagentur (IEA) von 2008 bis 2035 sein?",
+    "answer": "Laut Berechnungen der Internationalen Energieagentur (IEA) steigt der globale Primärenergieverbrauch von 2008 bis 2035 um 36 Prozent.",
+    "source_document": "Erneuerbare_Energien.md"
+  },
+  {
+    "question": "Welche Fragen stellen sich Angehörigen und Hinterbliebenen typischerweise, wenn ein Mensch stirbt?",
+    "answer": "Wenn ein Mensch stirbt, stellen sich den Angehörigen und Hinterbliebenen viele Fragen. Mit welcher Unterstützung kann gerechnet werden, gibt es ein Testament und welche Formalitäten gilt es zu erledigen?",
+    "source_document": "PV-Lage_Sterbefall_und_Nachlass.md"
+  },
+  {
+    "question": "Welche Voraussetzungen muss eine Person erfüllen, um die Berufsbezeichnung 'Beratende Ingenieurin' oder 'Beratender Ingenieur' im Freistaat Sachsen führen zu dürfen?",
+    "answer": "Die Berufsbezeichnung 'Beratende Ingenieurin' oder 'Beratender Ingenieur' darf nur geführt werden, wer in die Liste der Beratenden Ingenieure bei der Ingenieurkammer Sachsen oder der Ingenieurkammer eines anderen deutschen Bundeslandes eingetragen ist oder als Dienstleister mit einer auswärtigen Berufsqualifikation in ein Verzeichnis einer Ingenieurkammer eingetragen ist und dabei die Gleichwertigkeit der Berufsqualifikation festgestellt wurde.",
+    "source_document": "Berufsbezeichnungen_für_freiberuflich_Tätige.md"
+  },
+  {
+    "question": "Welche zwei Arten von Personal können Unternehmen im Rahmen des Programms 'InnoExperts' durch das Sächsische Staatsministerium für Wirtschaft, Arbeit und Verkehr gefördert beim Einsatz für Forschungs- und Entwicklungsaktivitäten sowie Innovationsmanagement einstellen?",
+    "answer": "Im Rahmen des Programms 'InnoExperts' können Unternehmen wissenschaftliches Personal (z.B. Hochschulabsolventen) und Personen mit einschlägiger Berufserfahrung in Wissenschaft oder Wirtschaft als 'Transferassistent' gefördert beim Einsatz für Forschungs- und Entwicklungsaktivitäten sowie Innovationsmanagement einstellen.",
+    "source_document": "Innovation_zur_Behauptung_am_Markt.md"
+  },
+  {
+    "question": "Welche Hauptziele verfolgt die begleitende Hilfe im Arbeitsleben für schwerbehinderte Menschen?",
+    "answer": "Die begleitende Hilfe im Arbeitsleben soll dazu führen, dass schwerbehinderte Menschen in ihrer sozialen Stellung nicht absinken, auf Arbeitsplätzen beschäftigt werden, wo sie ihre Fähigkeiten und Kenntnisse voll verwerten und weiterentwickeln können sowie durch Leistungen der Rehabilitationsträger und Maßnahmen der Arbeitgeber befähigt werden, sich am Arbeitsplatz und im Wettbewerb mit nicht behinderten Menschen zu behaupten.",
+    "source_document": "Begleitende_Hilfen_zur_Teilhabe_am_Arbeitsleben.md"
+  },
+  {
+    "question": "Welche Institution bietet Informationen zu reisemedizinischen Themen wie gesundheitlichen Risiken in bestimmten Ländern und Prophylaxe?",
+    "answer": "Der Gesundheitsdienst des Auswärtigen Amtes bietet umfangreiche Inhalte zu reisemedizinischen Themen wie beispielsweise gesundheitliche Risiken in bestimmten Ländern und die richtige Prophylaxe.",
+    "source_document": "Linksammlung_Reisen.md"
+  },
+  {
+    "question": "Welche Berufsgruppen führen nichtärztliche sozialpädiatrische Leistungen überwiegend unter ärztlicher Leitung durch?",
+    "answer": "Nichtärztliche sozialpädiatrische Leistungen werden überwiegend von anderen, speziell dazu ausgebildeten Berufsgruppen wie Diplompsychologen, Beschäftigungs- und Sprachtherapeuten, Heilpädagogen oder Sozialarbeitern unter ärztlicher Leitung durchgeführt.",
+    "source_document": "Nichtärztliche_sozialpädiatrische_Leistungen.md"
+  },
+  {
+    "question": "Welche Arten von Versicherungen werden im Text für Reisen genannt?",
+    "answer": "Im Text werden Personenversicherungen, Sachversicherungen und Sonstige Reiseversicherungen als mögliche Versicherungen für Reisen genannt.",
+    "source_document": "Versicherungsschutz_auf_Reisen.md"
+  },
+  {
+    "question": "Welche Symptome deuten auf eine Demenz hin, im Gegensatz zu normaler Vergesslichkeit?",
+    "answer": "Schwere und dauerhafte Probleme mit dem Gedächtnis, der Orientierung, der Konzentration oder mit der Fähigkeit, Dinge zu planen, sprechen von einer Demenz.",
+    "source_document": "Demenz_und_Alzheimer-Krankheit.md"
+  },
+  {
+    "question": "Seit wann gibt es das Amt des Sächsischen Ausländerbeauftragten?",
+    "answer": "Seit der Verabschiedung des Gesetzes über den Sächsischen Ausländerbeauftragten 1994 gibt es dieses Amt in Sachsen.",
+    "source_document": "Integration.md"
+  },
+  {
+    "question": "Welche Organisation bietet einen Online-Erste-Hilfe-Kurs an?",
+    "answer": "Auf dieser Seite finden Sie einen Online Erste-Hilfe-Kurs des Deutschen Roten Kreuzes, sowie weiteres zum Thema Rettung, Senioren, Familie und Jugend, sowie Gesundheit.",
+    "source_document": "Linksammlung_Gesundheit.md"
+  },
+  {
+    "question": "Welche finanziellen Hilfen stehen Schwangeren oder Müttern grundsätzlich zu?",
+    "answer": "Dazu gehören Mutterschaftsgeld und Mutterschutzlohn für Arbeitnehmerinnen, Hebammenhilfe, Kindergeld und Kinderfreibetrag.",
+    "source_document": "Finanzielle_Hilfen_Geburt.md"
+  },
+  {
+    "question": "Welche Art von Unterstützung bietet die Initiative REGENBOGEN ",
+    "answer": "Die Initiative ist ein Kontaktkreis für Eltern, die ein Kind durch Fehlgeburt, Frühgeburt, Totgeburt verloren haben. Der Kreis möchte anderen betroffenen Eltern seine Hilfe durch Erfahrungsaustausch und Gespräche anbieten.",
+    "source_document": "Linksammlung_Sterbefall.md"
+  },
+  {
+    "question": "Welche Tätigkeitsfelder fallen unter die sogenannten 'freien Berufe'?",
+    "answer": "Tätigkeitsfelder wie Ärztin oder Arzt, Rechtsanwältin oder Rechtsanwalt, Steuerberaterin oder Steuerberater, Künstlerin oder Künstler, Publizistin oder Publizist sowie ähnliche Berufsfelder fallen unter die sogenannten 'freien Berufe'.",
+    "source_document": "Freie_Berufe.md"
+  },
+  {
+    "question": "Welche Arten von Unterstützung bietet das Jugendamt neben Informationsabenden und Gesprächen im Vorfeld der Aufnahme eines Pflegekindes an?",
+    "answer": "Neben Informationsabenden und Gesprächen bieten qualifizierte Mitarbeiterinnen und Mitarbeiter des Jugendamtes auch Seminare zur pädagogischen Unterstützung an.",
+    "source_document": "Beratung.md"
+  },
+  {
+    "question": "Unter welchen Umständen kann ein Testament anfechtbar sein, wenn der Erblasser einen Lebenspartner als Alleinerben eingesetzt hat?",
+    "answer": "Ein Testament ist anfechtbar, wenn der Erblasser bei Errichtung des Testaments irrig einen Umstand als gegeben angenommen oder in der irrigen Erwartung des Eintritts eines Umstandes testiert hat. Beispielsweise kann die Erbeinsetzung des Lebenspartners angefochten werden, wenn sich der Lebenspartner kurz darauf vom Erblasser trennt und auszieht.",
+    "source_document": "Anfechtung_eines_Testaments__Erbvertrags.md"
+  },
+  {
+    "question": "Welche Art von Gütern erfordert besonders Vorsicht beim Import, und warum?",
+    "answer": "Besonders Kulturgüter (beispielsweise Kunstgegenstände oder Antiquitäten) erfordern Vorsicht, da es dafür in vielen Ländern Ausfuhrbeschränkungen oder -verbote gibt.",
+    "source_document": "Generelle_Aus-_und_Einfuhrbeschränkungen.md"
+  },
+  {
+    "question": "Unter welchen Umständen muss der Standsicherheitsnachweis für ein Gebäude von einem Prüfingenieur für Standsicherheit geprüft werden?",
+    "answer": "Der Standsicherheitsnachweis muss immer geprüft sein, wenn es sich um Gebäude der Gebäudeklassen 4 und 5 handelt. Bei den Gebäudeklassen 1 bis 3 sowie bei anderen baulichen Anlagen über 10 Meter Höhe hängt die Notwendigkeit der Prüfung von der Erklärung des qualifizierten Tragwerksplaners ab.",
+    "source_document": "Standsicherheit.md"
+  },
+  {
+    "question": "Welche Aussage trifft zu bezüglich des Konsums illegaler Drogen?",
+    "answer": "Illegale Drogen werden hauptsächlich von jüngeren Menschen konsumiert.",
+    "source_document": "Party_ohne_Drogen_und_Rauch.md"
+  },
+  {
+    "question": "Welche Themen werden unter dem Titel 'Hochwasser, Sturm und Hagelschlag' auf der Webseite behandelt?",
+    "answer": "Die Webseite behandelt Themen wie unberechenbare Natur, Schutz von Haus und Wohnung, richtige Versicherung, Vorkehrungen für den Notfall, Verhalten bei akuter Gefahr, Versicherungsschäden, staatliche Hilfe und bietet eine Linksammlung zum Thema.",
+    "source_document": "Hochwasser_Sturm_und_Hagelschlag.md"
+  },
+  {
+    "question": "Welche Möglichkeit bietet die 'Woche der offenen Unternehmen Sachsen' Schülern ab Klasse 7?",
+    "answer": "Die 'Woche der offenen Unternehmen Sachsen' bietet Schülern ab Klasse 7 die Möglichkeit, Unternehmen und Institutionen in ganz Sachsen selbständig zu besuchen und sich vor Ort umfassend und anschaulich über verschiedene Berufe in ihrer Region zu informieren.",
+    "source_document": "Berufsausbildung.md"
+  },
+  {
+    "question": "Welche Rechtsformen sind für Steuerberater und Steuerbevollmächtigte typischerweise relevant?",
+    "answer": "Die wichtigsten Rechts- und Kooperationsformen für Steuerberater und Steuerbevollmächtigte sind: Einzelunternehmen, Gesellschaft bürgerlichen Rechts (GbR), Partnerschaftsgesellschaft (PartG), Gesellschaft mit beschränkter Haftung (GmbH).",
+    "source_document": "Freie_Berufe_Steuerberater.md"
+  },
+  {
+    "question": "Welche Staaten haben mit der Bundesrepublik Deutschland bilaterale völkerrechtliche Verträge im Bereich des Personenstandswesens?",
+    "answer": "Die Bundesrepublik Deutschland hat mit folgenden Staaten bilaterale völkerrechtliche Verträge im Bereich des Personenstandswesens abgeschlossen: Belgien, Dänemark, Frankreich, Italien, Luxemburg, Österreich, Schweiz.",
+    "source_document": "Beglaubigung_deutscher_Urkunden.md"
+  },
+  {
+    "question": "Welche drei Netzwerke werden im Text speziell für die Halbleiter-, Elektronik- und Microsystemindustrie in Sachsen genannt?",
+    "answer": "Das Netzwerk der Halbleiter-, Elektronik- und Microsystemindustrie in Sachsen wird als 'Silicon Saxony' bezeichnet.",
+    "source_document": "Innovations-_und_Technologienetzwerke.md"
+  },
+  {
+    "question": "Was müssen Sie tun, wenn Sie aus Deutschland ins Ausland umziehen?",
+    "answer": "Bei einem Umzug in das Ausland müssen Sie sich bei Ihrer Wegzugsgemeinde abmelden.",
+    "source_document": "Meldepflicht_bei_einem_Umzug.md"
+  },
+  {
+    "question": "Bis wann muss der Sterbefall beim Standesamt angezeigt werden?",
+    "answer": "Die Anzeige des Sterbefalls muss spätestens am dritten Werktag nach dem Todestag erfolgen. Als Tag eins zählt der Folgetag des Sterbetages.",
+    "source_document": "Anzeige_des_Sterbefalls.md"
+  },
+  {
+    "question": "Welche Phasen umfasst die Behandlung einer Abhängigkeitserkrankung idealerweise und in welcher Reihenfolge?",
+    "answer": "Die Behandlung einer Abhängigkeit setzt sich idealerweise aus den folgenden Phasen zusammen, die in der dargestellten Reihenfolge stattfinden und aufeinander aufbauen: Kontakt- und Motivationsphase, Entgiftungsphase (körperlicher Entzug), Entwöhnungsphase und Nachsorgephase.",
+    "source_document": "Wege_aus_der_Abhängigkeit.md"
+  },
+  {
+    "question": "According to the World Health Organisation, what are three key characteristics of dependency?",
+    "answer": "According to the World Health Organisation, there is typically a strong desire to take the substance, difficulties controlling consumption, and persistent substance use despite harmful consequences.",
+    "source_document": "Advice_and_help_for_addicts.md"
+  },
+  {
+    "question": "Welche verschiedenen Arten von Adoption werden auf der Seite erwähnt?",
+    "answer": "Auf der Seite werden folgende Arten von Adoption erwähnt: Ein Kind zur Adoption freigeben, Ein Kind adoptieren, Ein Kind aus dem Ausland adoptieren, Volljährigenadoption und Aufhebung einer Adoption.",
+    "source_document": "Adoption.md"
+  },
+  {
+    "question": "Welche Art von Rückstrahler muss am Heck des Fahrrads angebracht sein, und welche Farbe hat er?",
+    "answer": "Am Heck muss ein mit 'Z' markierter roter Großflächenadrückstrahler befestigt sein.",
+    "source_document": "Ausrüstung_von_Fahrrädern.md"
+  },
+  {
+    "question": "Wann fand die letzte Bearbeitung von Smoketest_Testlebenslage_20210823 statt?",
+    "answer": "Die letzte Bearbeitung von Smoketest_Testlebenslage_20210823 fand am 21.03.2022 statt.",
+    "source_document": "Smoketest_Testlebenslage_20210823.md"
+  },
+  {
+    "question": "Welche Arten von Gräbern werden auf Friedhöfen unterschieden, und was ist eine Besonderheit bei Wahlgräbern im Vergleich zu Reihengräbern?",
+    "answer": "Auf Friedhöfen werden Wahlgräber (auch Gruft oder Familiengrab), Reihengräber, Gemeinschaftsgrabanlagen sowie andere Begräbnisformen unterschieden. Eine Besonderheit von Wahlgräbern ist, dass sie bei der Friedhofsverwaltung erworben und nach Ablauf der Nutzungszeit verlängert beziehungsweise wiedererworben werden können, während dies bei Reihengräbern nicht möglich ist.",
+    "source_document": "Friedhofs-_und_Grabwahl.md"
+  },
+  {
+    "question": "Was passiert, wenn nach der Verteilung im Insolvenzverfahren noch Vermögenswerte ermittelt werden oder Gelder zur Insolvenzmasse zurückfließen?",
+    "answer": "Vermögenswerte werden ab einem gewissen Umfang nachträglich an die Gläubiger verteilt. Für die Nachtragsverteilung bleibt der Insolvenzverwalter verantwortlich, der auch die Verfügungsberechtigung über das betreffende Vermögen behält.",
+    "source_document": "Insolvenz-Abschluss.md"
+  },
+  {
+    "question": "Welche ersten Schritte werden empfohlen, wenn man den Eindruck hat, dass ein Freund Hilfe bei seinem Drogenkonsum benötigt?",
+    "answer": "Man sollte ihm anbieten, ihn zu einer Beratungsstelle zu begleiten, wenn er das möchte.",
+    "source_document": "Suchtgefahr_und_Suchterkrankung_Wie_helfen.md"
+  },
+  {
+    "question": "Welche Institutionen oder Personengruppen werden im Insolvenzverfahren durch die Gläubigerversammlung und den Gläubigerausschuss vertreten?",
+    "answer": "Die Interessen der Gläubiger werden im Insolvenzverfahren durch die Gläubigerversammlung und den Gläubigerausschuss, gegebenenfalls auch durch einen vorläufigen Gläubigerausschuss, vertreten.",
+    "source_document": "Rechte_der_Gläubiger.md"
+  },
+  {
+    "question": "Gemäß welchem Paragraphen des Sozialgesetzbuchs Achtes Buch (SGB VIII) kann die Betreuung und Unterstützung, beispielsweise in Jugendwohngruppen oder Einzelwohnen, als erzieherische Hilfe erbracht werden?",
+    "answer": "Die Betreuung und Unterstützung wird als erzieherische Hilfe gemäß § 27 in Verbindung mit § 34 und 41 Sozialgesetzbuch Achtes Buch (SGB VIII) erbracht.",
+    "source_document": "Betreute_Wohnformen.md"
+  },
+  {
+    "question": "Was sind die Verpflichtungen des Käufers und des Verkäufers beim Kaufvertrag?",
+    "answer": "Beim Kaufvertrag verpflichtet sich der Käufer den vereinbarten Kaufpreis zu zahlen und die Ware abzunehmen. Der Verkäufer ist wiederum verpflichtet, dem Käufer die Sache zu übergeben und das Eigentum an der Sache – frei von Sach- und Rechtsmängeln – zu verschaffen.",
+    "source_document": "Kaufvertrag.md"
+  },
+  {
+    "question": "Welche Formate können Marken haben?",
+    "answer": "Marken können folgende Form haben: Wortmarken, Buchstaben (einzeln oder Kombinationen), Zahlen, Bildmarken, Wort-Bild-Marken, dreidimensionale Marken, Hörmarken sowie sonstige Aufmachungen wie Farben oder Farbzusammenstellungen.",
+    "source_document": "Marken.md"
+  },
+  {
+    "question": "Welche drei Rollen können Akteure im Technologietransfer einnehmen?",
+    "answer": "Die Akteure im Technologietransfer können der Technologienehmer, der Technologiegeber oder der Technologiemittler sein.",
+    "source_document": "Technologietransfer.md"
+  }
+]
